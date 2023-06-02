@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "6P1iWg8Rf9qBxGUkZayXd7UFB7PhA+w7oGB8v5F5udY=",
+  "Hash": "NHwZYCTomTW9a+hkOCo13UBXd3K/o058LKL/graWbfo=",
   "Source": "Projeto_Gamer_MVC",
   "BasePath": "_content/Projeto_Gamer_MVC",
   "Mode": "Default",
@@ -100,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\Equipes\\Corinthians.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\img\\Equipes\\Croacia.png",
+      "SourceId": "Projeto_Gamer_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
+      "BasePath": "_content/Projeto_Gamer_MVC",
+      "RelativePath": "img/Equipes/Croacia.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Equipes\\Croacia.png"
     },
     {
       "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\img\\Equipes\\fenerbahce.png",

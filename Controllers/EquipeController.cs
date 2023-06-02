@@ -55,7 +55,7 @@ namespace Projeto_Gamer_MVC.Controllers
 
             else 
             {
-                novaEquipe.Imagem = "padra.png";
+                novaEquipe.Imagem = "padrao.png";
             }
             c.Equipe.Add(novaEquipe); // Adiciona em Equipe
             c.SaveChanges(); // Salva as mudanças

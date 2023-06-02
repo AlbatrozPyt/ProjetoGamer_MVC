@@ -1,0 +1,26 @@
+@model Jogador
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h2>Edicao de Equipes</h2>
+
+<form method="post" action="@Url.Action("Cadastrar")" enctype="multipart/form-data">
+    <input type="hidden" name="IdJogador" value="@ViewBag.Jogador.IdJogador">
+
+    <label for="">Nome:</label>
+    <input type="text" name="Nome" required>
+
+    <label for="">Email:</label>
+    <input type="email" placeholder="Digite seu Email" required>
+
+    <label for="">Senha:</label>
+    <input type="password" required>
+
+    <select name="" id="">
+        <option value=""></option>
+    </select>
+
+    <button class="submit">Cadastrar</button>
+</form>
