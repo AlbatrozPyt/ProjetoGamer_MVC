@@ -6,32 +6,13 @@
 
 <h1>Tela de Jogadores</h1>
 
-<form method="post" action="@Url.Action("Cadastrar")" enctype="multipart/form-data">
-    <label for="">Nome:</label>
-    <input type="text" name="Nome" required>
-
-    <label for="">Email:</label>
-    <input type="email" name="Email" placeholder="Digite seu Email" required>
-
-    <label for="">Senha:</label>
-    <input type="password" name="Senha" required>
-
-    <select name="Equipe" id="">
-        @foreach (Equipe equipe in ViewBag.Equipe)
-        {
-            <option value="">@equipe.Nome</option>
-        }
-    </select>
-
-    <button class="submit">Cadastrar</button>
-</form>
 
 <table class="table table-striped table-responsive">
     <thead>
         <th>Id</th>
         <th>Nome</th>
         <th>Email</th>
-        <th>Equipe</th>
+        <th colspan="2">Equipe</th>
         <th colspan="2">Ações</th>
     </thead>
 
@@ -42,13 +23,36 @@
                 <td>@jogador.IdJogador</td>
                 <td>@jogador.Nome</td>
                 <td>@jogador.Email</td>
-                <td></td>
                 <td><img src="/img/Equipes/@jogador.Equipe.Imagem" alt="" width="50px"></td>
-                <td> <a asp-area="link para excluir jogador" asp-controller="Jogador" asp-action="Excluir"
-                        asp-route-id="@jogador.IdJogador">Excluir</a> </td>
-                <td> <a asp-area="link para editar o jogador" asp-action="Jogador" asp-action="Editar"
-                        asp-route-id="@jogador.IdJogador">Editar</a> </td>
+                <td>
+                    <a asp-area="link para excluir jogador" asp-controller="Jogador" asp-action="Excluir"
+                        asp-route-id="@jogador.IdJogador">Excluir</a>
+                </td>
+                <td>
+                    <a asp-area="link para editar o jogador" asp-action="Jogador" asp-action="Editar"
+                        asp-route-id="@jogador.IdJogador">Editar</a>
+                </td>
             </tr>
         }
     </tbody>
 </table>
+
+<form method="post" action="@Url.Action("Cadastrar")" enctype="multipart/form-data">
+    <label for="">Nome:</label>
+    <input type="text" name="Nome" required>
+
+    <label for="">Email:</label>
+    <input type="email" name="Email" placeholder="Digite seu Email" required>
+
+    <label for="">Senha:</label>
+    <input type="password" name="Senha" required>
+
+    <select name="Equipe">
+        @foreach (Equipe equipe in ViewBag.Equipe)
+        {
+            <option value="@equipe.IdEquipe">@equipe.Nome</option>
+        }
+    </select>
+
+    <button class="submit">Cadastrar</button>
+</form>

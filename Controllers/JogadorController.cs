@@ -36,10 +36,11 @@ namespace Projeto_Gamer_MVC.Controllers
         public IActionResult Cadastrar(IFormCollection form)
         {
             Jogador novoJogador = new Jogador();
+            Equipe e = new Equipe();
             novoJogador.Nome = form["Nome"].ToString();
             novoJogador.Email = form["Email"].ToString();
             novoJogador.Senha = form["Senha"].ToString();
-            novoJogador.Equipe.Nome = form["Equipe"].ToString();
+            novoJogador.IdEquipe = int.Parse(form["Equipe"]!);
             c.Jogador.Add(novoJogador);
             c.SaveChanges();
             
