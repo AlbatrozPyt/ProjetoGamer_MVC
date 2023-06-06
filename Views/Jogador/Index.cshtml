@@ -1,7 +1,7 @@
-@model Equipe
+@model Jogador
 
 @{
-    ViewData["Title"] = "Equipe";
+    ViewData["Title"] = "Jogador";
 }
 
 <h1>Tela de Jogadores</h1>
@@ -23,13 +23,13 @@
                 <td>@jogador.IdJogador</td>
                 <td>@jogador.Nome</td>
                 <td>@jogador.Email</td>
-                <td><img src="/img/Equipes/@jogador.Equipe.Imagem" alt="" width="50px"></td>
+                <td><img src="/img/Equipes/@jogador.Equipe.Imagem" alt="" width="85px"></td>
                 <td>
                     <a asp-area="link para excluir jogador" asp-controller="Jogador" asp-action="Excluir"
                         asp-route-id="@jogador.IdJogador">Excluir</a>
                 </td>
                 <td>
-                    <a asp-area="link para editar o jogador" asp-action="Jogador" asp-action="Editar"
+                    <a asp-area="link para editar o jogador" asp-controller="Jogador" asp-action="Editar"
                         asp-route-id="@jogador.IdJogador">Editar</a>
                 </td>
             </tr>
@@ -37,7 +37,7 @@
     </tbody>
 </table>
 
-<form method="post" action="@Url.Action("Cadastrar")" enctype="multipart/form-data">
+<form method="post" action="@Url.Action("Cadastrar")">
     <label for="">Nome:</label>
     <input type="text" name="Nome" required>
 
@@ -47,7 +47,8 @@
     <label for="">Senha:</label>
     <input type="password" name="Senha" required>
 
-    <select name="Equipe">
+    <select name="IdEquipe" id="IdEquipe">
+        <option value="0">Selecione uma Equipe: </option>
         @foreach (Equipe equipe in ViewBag.Equipe)
         {
             <option value="@equipe.IdEquipe">@equipe.Nome</option>

@@ -4,22 +4,34 @@
     ViewData["Title"] = "Edit";
 }
 
-<h2>Edicao de Equipes</h2>
+<h2>Edicao de Jogadores</h2>
 
-<form method="post" action="@Url.Action("Cadastrar")" enctype="multipart/form-data">
-    <input type="hidden" name="IdJogador" value="@ViewBag.Jogador.IdJogador">
+
+<form method="post" action="@Url.Action("Atualizar")">
+     <input type="hidden" name="IdJogador" value="@ViewBag.Jogador.IdJogador">
 
     <label for="">Nome:</label>
-    <input type="text" name="Nome" required>
+    <input type="text" name="Nome" value="@ViewBag.Jogador.Nome" required>
 
     <label for="">Email:</label>
-    <input type="email" placeholder="Digite seu Email" required>
+    <input type="email" name="Email" placeholder="Digite seu Email" value="@ViewBag.Jogador.Email" required>
 
     <label for="">Senha:</label>
-    <input type="password" required>
+    <input type="password" name="Senha" value="@ViewBag.Jogador.Senha" required>
 
-    <select name="" id="">
-        <option value=""></option>
+    <select name="IdEquipe">
+        <option value="0">Selecione uma Equipe: </option>
+        @foreach (Equipe equipe in ViewBag.Equipe)
+        {
+             @if (equipe.IdEquipe == @ViewBag.Jogador.IdEquipe)
+            {
+                <option value="@equipe.IdEquipe" selected>@equipe.Nome</option>
+            }
+            else
+            {
+                <option value="@equipe.IdEquipe">@equipe.Nome</option>
+            }
+        }
     </select>
 
     <button class="submit">Cadastrar</button>
