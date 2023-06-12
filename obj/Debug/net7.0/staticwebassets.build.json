@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "NHwZYCTomTW9a+hkOCo13UBXd3K/o058LKL/graWbfo=",
+  "Hash": "WhF1dpNiXeaSwyuN7AhJiZlUmHW4nZRVrcxyCojxxXI=",
   "Source": "Projeto_Gamer_MVC",
   "BasePath": "_content/Projeto_Gamer_MVC",
   "Mode": "Default",
@@ -134,6 +134,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\Equipes\\fenerbahce.png"
+    },
+    {
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\img\\Equipes\\Internazionale.jfif",
+      "SourceId": "Projeto_Gamer_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
+      "BasePath": "_content/Projeto_Gamer_MVC",
+      "RelativePath": "img/Equipes/Internazionale.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Equipes\\Internazionale.jfif"
     },
     {
       "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\img\\Equipes\\Milan.jpg",
