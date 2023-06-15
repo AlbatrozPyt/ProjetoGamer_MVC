@@ -253,6 +253,10 @@
       "PackagePath": "staticwebassets\\css\\home.css"
     },
     {
+      "Id": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\css\\jogadores.css",
+      "PackagePath": "staticwebassets\\css\\jogadores.css"
+    },
+    {
       "Id": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\css\\login.css",
       "PackagePath": "staticwebassets\\css\\login.css"
     },
@@ -383,6 +387,10 @@
     {
       "Id": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\img\\Equipes\\padrao.png",
       "PackagePath": "staticwebassets\\img\\Equipes\\padrao.png"
+    },
+    {
+      "Id": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\img\\Equipes\\tutu.jpg",
+      "PackagePath": "staticwebassets\\img\\Equipes\\tutu.jpg"
     },
     {
       "Id": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\js\\site.js",

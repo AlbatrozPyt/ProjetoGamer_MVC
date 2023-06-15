@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Nomb00Ql0AAtwMz5ZBtitzHUSsitLzXE0f3l9nWWgYk=",
+  "Hash": "mXNj1NBId/EsmozaUGr17xtBwiDquo6h7PQ5nlkKxKY=",
   "Source": "Projeto_Gamer_MVC",
   "BasePath": "_content/Projeto_Gamer_MVC",
   "Mode": "Default",
@@ -1105,6 +1105,23 @@
       "OriginalItemSpec": "wwwroot\\css\\home.css"
     },
     {
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\css\\jogadores.css",
+      "SourceId": "Projeto_Gamer_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
+      "BasePath": "_content/Projeto_Gamer_MVC",
+      "RelativePath": "css/jogadores.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\jogadores.css"
+    },
+    {
       "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\css\\login.css",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
@@ -1664,6 +1681,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\Equipes\\Real_Madrid.png"
+    },
+    {
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\img\\Equipes\\tutu.jpg",
+      "SourceId": "Projeto_Gamer_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
+      "BasePath": "_content/Projeto_Gamer_MVC",
+      "RelativePath": "img/Equipes/tutu.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Equipes\\tutu.jpg"
     },
     {
       "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\js\\site.js",
