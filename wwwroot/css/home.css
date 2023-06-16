@@ -35,6 +35,12 @@
     border: 1px solid #F9AA01;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, .5);
+    transition: 1s;
+}
+
+.banner a.btn-sobreliga:hover {
+    position: relative;
+    bottom: 10px;
 }
 
 /********************* Jogos *********************/

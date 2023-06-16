@@ -60,6 +60,7 @@ main .cadastro-equipes .frm-cad-equipe {
 main .cadastro-equipes .frm-cad-equipe .cadequipe-titulo {
     margin-bottom: 40px;
 }
+
 main .cadastro-equipes .frm-cad-equipe .cadequipe-titulo h1 {
     font-family: TitilliumWeb-Black, sans-serif;
     font-size: 24px;
@@ -101,12 +102,16 @@ main .cadastro-equipes .frm-cad-equipe .campo-entrada {
     color: white;
 }
 
+.frm-cad-equipe .campo-entrada option {
+    background-color: black;
+}
 
 /* File Field */
 
-main .cadastro-equipes .frm-cad-equipe .foto input { 
+main .cadastro-equipes .frm-cad-equipe .foto input {
     display: none;
 }
+
 main .cadastro-equipes .frm-cad-equipe .foto {
     display: flex;
     align-items: center;
@@ -114,6 +119,7 @@ main .cadastro-equipes .frm-cad-equipe .foto {
     font-size: 10px;
     width: 100%;
 }
+
 main .cadastro-equipes .frm-cad-equipe .foto::before {
     display: flex;
     justify-content: center;
@@ -178,15 +184,18 @@ main .cadastro-equipes table thead th {
     font-family: TitilliumWeb-Black;
     font-size: 20px;
     text-transform: uppercase;
-
 }
+
+
 
 /* linhas da tabela, independentemente do cabeçalho ou corpo */
 main .cadastro-equipes table tr {
     display: flex;
     justify-content: space-between;
     align-items: center;
+
 }
+
 
 main .cadastro-equipes table tbody tr {
     height: 70px;
@@ -200,8 +209,18 @@ main .cadastro-equipes table tbody tr {
         /* fundo borda */
         linear-gradient(90deg, rgba(255, 255, 255, .6), rgba(255, 255, 255, .1)) border-box;
     backdrop-filter: blur(4px);
+    animation: infinite alternate rgb 3s;
 
+}
 
+@keyframes rgb {
+    from {
+        background-color: red;
+    }
+
+    to {
+        background-color: blue;
+    }
 }
 
 main .cadastro-equipes table td {
@@ -213,6 +232,11 @@ main .cadastro-equipes table td {
     border-right: 2px solid #F9AA01;
 }
 
+main .cadastro-equipes table td img {
+    height: 50px;
+}
+
+
 main .cadastro-equipes table td:last-of-type {
     border: none;
 }
@@ -223,8 +247,15 @@ main .cadastro-equipes table td img.green-play {
 
 main .cadastro-equipes table td img.yellow-trash {
     width: 15px;
+    height: 15px;
 }
 
+main .cadastro-equipes table .editar-excluir {
+    border: red 2px solid;
+    width: 700px;
+    display: flex;
+    justify-content: space-evenly;
+}
 
 
 /* Desktop */
@@ -252,6 +283,7 @@ main .cadastro-equipes table td img.yellow-trash {
         height: 40px;
         font-size: 16px;
     }
+
     main .cadastro-equipes .frm-cad-equipe button {
         width: 243px;
     }
