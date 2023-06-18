@@ -13,7 +13,13 @@
     <!-- HEADER -->
     <header id="header" class="header">
         <div class="header-top">
-            <div class="container-grid header-top-flex">
+            <div class="container-grid header-top-flex"> 
+                @if (ViewBag.UserName != null)
+                {
+                    <div>
+                        <p>😁🖐 Olá, @ViewBag.UserName !!!</p>
+                    </div>
+                }
                 <div>
                     <span class="phone-box">
                         <img src="~/assets/phone-icon.png" alt="phone icon" title="Ícone Telefone">
@@ -25,6 +31,8 @@
                         contato@gamer.com.br
                     </span>
                 </div>
+                
+               
 
                 <span class="social-box">
                     <img src="~/assets/facebook.svg" alt="phone icon" title="Ícone Telefone">
@@ -54,7 +62,6 @@
                         {
                             <a asp-controller="Equipe" asp-action="Index">Equipes</a>
                             <a asp-controller="Jogador" asp-action="Index">Jogadores</a>
-                            <p>Ola @ViewBag.UserName !!!</p>
                             <a asp-controller="Login" asp-action="Logout">Logout</a>
                         }
 
@@ -134,12 +141,16 @@
                     <hr>
                 </div>
 
+                
+                            
+                           
+
                 <ul class="menu-footer">
-                    <li class="menu-ftitem"><a href="#">Início</a></li>
-                    <li class="menu-ftitem"><a href="#">Jogadores</a></li>
-                    <li class="menu-ftitem"><a href="#">Notícias</a></li>
-                    <li class="menu-ftitem"><a href="#">Login</a></li>
-                    <li class="menu-ftitem" id="link-equipe"><a href="#">Equipes</a></li>
+                    <li class="menu-ftitem"><a href="~/#header">Início</a></li>
+                    <li class="menu-ftitem"><a asp-controller="Jogador" asp-action="Index">Jogadores</a></li>
+                    <li class="menu-ftitem"><a asp-controller="Equipe" asp-action="Index">Equipes</a></li>
+                    <li class="menu-ftitem"><a href="~/#noticias">Notícias</a></li>
+                    <li class="menu-ftitem"> <a asp-controller="Login" asp-action="Logout">Logout</a></li>
                 </ul>
             </div>
 
