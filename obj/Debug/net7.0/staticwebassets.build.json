@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1tlazcPpBHZh5BXyfBO/txk2G4YeMBMl4d21pFyUkRQ=",
+  "Hash": "43yJ+927X+23Gf85iaPWzyai4SD9D2wlJky0Jth8Kcw=",
   "Source": "Projeto_Gamer_MVC",
   "BasePath": "_content/Projeto_Gamer_MVC",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Projeto_Gamer_MVC\\wwwroot",
       "Source": "Projeto_Gamer_MVC",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Projeto_Gamer_MVC.styles.css",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Projeto_Gamer_MVC.styles.css",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "Projeto_Gamer_MVC.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Projeto_Gamer_MVC.styles.css"
+      "OriginalItemSpec": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Projeto_Gamer_MVC.styles.css"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Projeto_Gamer_MVC.bundle.scp.css",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Projeto_Gamer_MVC.bundle.scp.css",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "Projeto_Gamer_MVC.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Projeto_Gamer_MVC.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Projeto_Gamer_MVC.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\Banner_Login.png",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\Banner_Login.png",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/Banner_Login.png",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Banner_Login.png"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\Botao_voltar_ao_topo.svg",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\Botao_voltar_ao_topo.svg",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/Botao_voltar_ao_topo.svg",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Botao_voltar_ao_topo.svg"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\envelope-icon.png",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\envelope-icon.png",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/envelope-icon.png",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\envelope-icon.png"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\facebook-yellow.svg",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\facebook-yellow.svg",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/facebook-yellow.svg",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\facebook-yellow.svg"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\facebook.svg",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\facebook.svg",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/facebook.svg",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\facebook.svg"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\fonts\\Inter\\Inter-VariableFont_slnt,wght.ttf",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\fonts\\Inter\\Inter-VariableFont_slnt,wght.ttf",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/fonts/Inter/Inter-VariableFont_slnt,wght.ttf",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Inter\\Inter-VariableFont_slnt,wght.ttf"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\fonts\\Inter\\OFL.txt",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\fonts\\Inter\\OFL.txt",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/fonts/Inter/OFL.txt",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Inter\\OFL.txt"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\fonts\\Inter\\README.txt",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\fonts\\Inter\\README.txt",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/fonts/Inter/README.txt",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Inter\\README.txt"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\fonts\\Inter\\static\\Inter-Black.ttf",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\fonts\\Inter\\static\\Inter-Black.ttf",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/fonts/Inter/static/Inter-Black.ttf",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Inter\\static\\Inter-Black.ttf"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\fonts\\Inter\\static\\Inter-Bold.ttf",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\fonts\\Inter\\static\\Inter-Bold.ttf",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/fonts/Inter/static/Inter-Bold.ttf",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Inter\\static\\Inter-Bold.ttf"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\fonts\\Inter\\static\\Inter-ExtraBold.ttf",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\fonts\\Inter\\static\\Inter-ExtraBold.ttf",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/fonts/Inter/static/Inter-ExtraBold.ttf",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Inter\\static\\Inter-ExtraBold.ttf"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\fonts\\Inter\\static\\Inter-ExtraLight.ttf",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\fonts\\Inter\\static\\Inter-ExtraLight.ttf",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/fonts/Inter/static/Inter-ExtraLight.ttf",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Inter\\static\\Inter-ExtraLight.ttf"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\fonts\\Inter\\static\\Inter-Light.ttf",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\fonts\\Inter\\static\\Inter-Light.ttf",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/fonts/Inter/static/Inter-Light.ttf",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Inter\\static\\Inter-Light.ttf"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\fonts\\Inter\\static\\Inter-Medium.ttf",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\fonts\\Inter\\static\\Inter-Medium.ttf",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/fonts/Inter/static/Inter-Medium.ttf",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Inter\\static\\Inter-Medium.ttf"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\fonts\\Inter\\static\\Inter-Regular.ttf",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\fonts\\Inter\\static\\Inter-Regular.ttf",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/fonts/Inter/static/Inter-Regular.ttf",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Inter\\static\\Inter-Regular.ttf"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\fonts\\Inter\\static\\Inter-SemiBold.ttf",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\fonts\\Inter\\static\\Inter-SemiBold.ttf",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/fonts/Inter/static/Inter-SemiBold.ttf",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Inter\\static\\Inter-SemiBold.ttf"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\fonts\\Inter\\static\\Inter-Thin.ttf",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\fonts\\Inter\\static\\Inter-Thin.ttf",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/fonts/Inter/static/Inter-Thin.ttf",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Inter\\static\\Inter-Thin.ttf"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\fonts\\Quicksand\\OFL.txt",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\fonts\\Quicksand\\OFL.txt",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/fonts/Quicksand/OFL.txt",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Quicksand\\OFL.txt"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\fonts\\Quicksand\\Quicksand-VariableFont_wght.ttf",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\fonts\\Quicksand\\Quicksand-VariableFont_wght.ttf",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/fonts/Quicksand/Quicksand-VariableFont_wght.ttf",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Quicksand\\Quicksand-VariableFont_wght.ttf"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\fonts\\Quicksand\\README.txt",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\fonts\\Quicksand\\README.txt",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/fonts/Quicksand/README.txt",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Quicksand\\README.txt"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\fonts\\Quicksand\\static\\Quicksand-Bold.ttf",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\fonts\\Quicksand\\static\\Quicksand-Bold.ttf",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/fonts/Quicksand/static/Quicksand-Bold.ttf",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Quicksand\\static\\Quicksand-Bold.ttf"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\fonts\\Quicksand\\static\\Quicksand-Light.ttf",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\fonts\\Quicksand\\static\\Quicksand-Light.ttf",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/fonts/Quicksand/static/Quicksand-Light.ttf",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Quicksand\\static\\Quicksand-Light.ttf"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\fonts\\Quicksand\\static\\Quicksand-Medium.ttf",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\fonts\\Quicksand\\static\\Quicksand-Medium.ttf",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/fonts/Quicksand/static/Quicksand-Medium.ttf",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Quicksand\\static\\Quicksand-Medium.ttf"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\fonts\\Quicksand\\static\\Quicksand-Regular.ttf",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\fonts\\Quicksand\\static\\Quicksand-Regular.ttf",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/fonts/Quicksand/static/Quicksand-Regular.ttf",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Quicksand\\static\\Quicksand-Regular.ttf"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\fonts\\Quicksand\\static\\Quicksand-SemiBold.ttf",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\fonts\\Quicksand\\static\\Quicksand-SemiBold.ttf",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/fonts/Quicksand/static/Quicksand-SemiBold.ttf",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Quicksand\\static\\Quicksand-SemiBold.ttf"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\fonts\\Titillium_Web\\OFL.txt",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\fonts\\Titillium_Web\\OFL.txt",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/fonts/Titillium_Web/OFL.txt",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Titillium_Web\\OFL.txt"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-Black.ttf",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-Black.ttf",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/fonts/Titillium_Web/TitilliumWeb-Black.ttf",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-Black.ttf"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-Bold.ttf",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-Bold.ttf",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/fonts/Titillium_Web/TitilliumWeb-Bold.ttf",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-Bold.ttf"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-BoldItalic.ttf",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-BoldItalic.ttf",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/fonts/Titillium_Web/TitilliumWeb-BoldItalic.ttf",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-BoldItalic.ttf"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-ExtraLight.ttf",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-ExtraLight.ttf",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/fonts/Titillium_Web/TitilliumWeb-ExtraLight.ttf",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-ExtraLight.ttf"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-ExtraLightItalic.ttf",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-ExtraLightItalic.ttf",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/fonts/Titillium_Web/TitilliumWeb-ExtraLightItalic.ttf",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-ExtraLightItalic.ttf"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-Italic.ttf",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-Italic.ttf",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/fonts/Titillium_Web/TitilliumWeb-Italic.ttf",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-Italic.ttf"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-Light.ttf",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-Light.ttf",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/fonts/Titillium_Web/TitilliumWeb-Light.ttf",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-Light.ttf"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-LightItalic.ttf",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-LightItalic.ttf",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/fonts/Titillium_Web/TitilliumWeb-LightItalic.ttf",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-LightItalic.ttf"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-Regular.ttf",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-Regular.ttf",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/fonts/Titillium_Web/TitilliumWeb-Regular.ttf",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-Regular.ttf"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-SemiBold.ttf",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-SemiBold.ttf",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/fonts/Titillium_Web/TitilliumWeb-SemiBold.ttf",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-SemiBold.ttf"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-SemiBoldItalic.ttf",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-SemiBoldItalic.ttf",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/fonts/Titillium_Web/TitilliumWeb-SemiBoldItalic.ttf",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-SemiBoldItalic.ttf"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\fundo-jogadores-mobile.png",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\fundo-jogadores-mobile.png",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/fundo-jogadores-mobile.png",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fundo-jogadores-mobile.png"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\fundo-login.png",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\fundo-login.png",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/fundo-login.png",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fundo-login.png"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\go-to-top.png",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\go-to-top.png",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/go-to-top.png",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\go-to-top.png"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\green-play.svg",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\green-play.svg",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/green-play.svg",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\green-play.svg"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\instagram-yellow.svg",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\instagram-yellow.svg",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/instagram-yellow.svg",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\instagram-yellow.svg"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\instagram.svg",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\instagram.svg",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/instagram.svg",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\instagram.svg"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\joystick-icon.svg",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\joystick-icon.svg",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/joystick-icon.svg",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\joystick-icon.svg"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\joystick-prof-icon.svg",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\joystick-prof-icon.svg",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/joystick-prof-icon.svg",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\joystick-prof-icon.svg"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\linkedin-yellow.svg",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\linkedin-yellow.svg",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/linkedin-yellow.svg",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\linkedin-yellow.svg"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\linkedin.svg",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\linkedin.svg",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/linkedin.svg",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\linkedin.svg"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\logotipo-gamer.png",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\logotipo-gamer.png",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/logotipo-gamer.png",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\logotipo-gamer.png"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\logotipo-gamer.svg",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\logotipo-gamer.svg",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/logotipo-gamer.svg",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\logotipo-gamer.svg"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\market-icon.png",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\market-icon.png",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/market-icon.png",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\market-icon.png"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\menu-hamburger.svg",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\menu-hamburger.svg",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/menu-hamburger.svg",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\menu-hamburger.svg"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\menu-points.png",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\menu-points.png",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/menu-points.png",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\menu-points.png"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\Pen_Edit.svg",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\Pen_Edit.svg",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/Pen_Edit.svg",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\Pen_Edit.svg"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\phone-icon.png",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\phone-icon.png",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/phone-icon.png",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\phone-icon.png"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\search-icon.png",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\search-icon.png",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/search-icon.png",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\search-icon.png"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\search-icon.svg",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\search-icon.svg",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/search-icon.svg",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\search-icon.svg"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\trash.png",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\trash.png",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/trash.png",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\trash.png"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\user-icon.svg",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\user-icon.svg",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/user-icon.svg",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\user-icon.svg"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\vector-key.svg",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\vector-key.svg",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/vector-key.svg",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vector-key.svg"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\assets\\vector-user.svg",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\assets\\vector-user.svg",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "assets/vector-user.svg",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vector-user.svg"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\css\\equipes.css",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\css\\equipes.css",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "css/equipes.css",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\css\\equipes.css"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\css\\header-footer.css",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\css\\header-footer.css",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "css/header-footer.css",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\css\\header-footer.css"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\css\\home.css",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\css\\home.css",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "css/home.css",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\css\\home.css"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\css\\jogadores.css",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\css\\jogadores.css",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "css/jogadores.css",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\css\\jogadores.css"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\css\\login.css",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\css\\login.css",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "css/login.css",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\css\\login.css"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\css\\site.css",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\css\\style.css",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\css\\style.css",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\favicon.ico",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\images\\background_equipes.png",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\images\\background_equipes.png",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "images/background_equipes.png",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\images\\background_equipes.png"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\images\\background-equipes-mobile.png",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\images\\background-equipes-mobile.png",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "images/background-equipes-mobile.png",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\images\\background-equipes-mobile.png"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\images\\background-jogadores.png",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\images\\background-jogadores.png",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "images/background-jogadores.png",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\images\\background-jogadores.png"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\images\\background-login-mobile.png",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\images\\background-login-mobile.png",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "images/background-login-mobile.png",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\images\\background-login-mobile.png"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\images\\Background-Login.png",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\images\\Background-Login.png",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "images/Background-Login.png",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Background-Login.png"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\images\\backgroung_footer.png",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\images\\backgroung_footer.png",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "images/backgroung_footer.png",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\images\\backgroung_footer.png"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\images\\backgrund_notícias-mobile.png",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\images\\backgrund_notícias-mobile.png",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "images/backgrund_notícias-mobile.png",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\images\\backgrund_notícias-mobile.png"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\images\\backgrund_notícias.png",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\images\\backgrund_notícias.png",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "images/backgrund_notícias.png",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\images\\backgrund_notícias.png"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\images\\Banner_Liga-Game-Mobile.png",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\images\\Banner_Liga-Game-Mobile.png",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "images/Banner_Liga-Game-Mobile.png",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Banner_Liga-Game-Mobile.png"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\images\\Banner_Liga-Game.png",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\images\\Banner_Liga-Game.png",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "images/Banner_Liga-Game.png",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Banner_Liga-Game.png"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\images\\Card-FIFA.png",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\images\\Card-FIFA.png",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "images/Card-FIFA.png",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Card-FIFA.png"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\images\\Game-CS-GO.png",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\images\\Game-CS-GO.png",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "images/Game-CS-GO.png",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Game-CS-GO.png"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\images\\Game-FIFA.png",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\images\\Game-FIFA.png",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "images/Game-FIFA.png",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Game-FIFA.png"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\images\\kiljoy.png",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\images\\kiljoy.png",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "images/kiljoy.png",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\images\\kiljoy.png"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\images\\lade-lol.png",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\images\\lade-lol.png",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "images/lade-lol.png",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\images\\lade-lol.png"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\images\\noticia1.png",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\images\\noticia1.png",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "images/noticia1.png",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\images\\noticia1.png"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\images\\noticia2.png",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\images\\noticia2.png",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "images/noticia2.png",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\images\\noticia2.png"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\images\\noticia3.png",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\images\\noticia3.png",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "images/noticia3.png",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\images\\noticia3.png"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\images\\noticia4.png",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\images\\noticia4.png",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "images/noticia4.png",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\images\\noticia4.png"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\images\\noticia5.png",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\images\\noticia5.png",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "images/noticia5.png",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\images\\noticia5.png"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\images\\noticia6.png",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\images\\noticia6.png",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "images/noticia6.png",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\images\\noticia6.png"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\images\\noticia7.png",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\images\\noticia7.png",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "images/noticia7.png",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\images\\noticia7.png"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\images\\noticia8.png",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\images\\noticia8.png",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "images/noticia8.png",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\images\\noticia8.png"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\img\\Equipes\\Chelsea.jfif",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\img\\Equipes\\Chelsea.jfif",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "img/Equipes/Chelsea.jfif",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Equipes\\Chelsea.jfif"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\img\\Equipes\\coringao.jpg",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\img\\Equipes\\coringao.jpg",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "img/Equipes/coringao.jpg",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Equipes\\coringao.jpg"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\img\\Equipes\\Corinthians.jpg",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\img\\Equipes\\Corinthians.jpg",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "img/Equipes/Corinthians.jpg",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Equipes\\Corinthians.jpg"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\img\\Equipes\\Croacia.png",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\img\\Equipes\\Croacia.png",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "img/Equipes/Croacia.png",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Equipes\\Croacia.png"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\img\\Equipes\\fenerbahce.png",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\img\\Equipes\\fenerbahce.png",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "img/Equipes/fenerbahce.png",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Equipes\\fenerbahce.png"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\img\\Equipes\\ibis.jpg",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\img\\Equipes\\ibis.jpg",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "img/Equipes/ibis.jpg",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Equipes\\ibis.jpg"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\img\\Equipes\\Internazionale.jfif",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\img\\Equipes\\Internazionale.jfif",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "img/Equipes/Internazionale.jfif",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Equipes\\Internazionale.jfif"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\img\\Equipes\\loud.jpg",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\img\\Equipes\\loud.jpg",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "img/Equipes/loud.jpg",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Equipes\\loud.jpg"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\img\\Equipes\\Milan.jpg",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\img\\Equipes\\Milan.jpg",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "img/Equipes/Milan.jpg",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Equipes\\Milan.jpg"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\img\\Equipes\\padrao.png",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\img\\Equipes\\padrao.png",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "img/Equipes/padrao.png",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Equipes\\padrao.png"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\img\\Equipes\\Real_Madrid.png",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\img\\Equipes\\Real_Madrid.png",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "img/Equipes/Real_Madrid.png",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Equipes\\Real_Madrid.png"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\img\\Equipes\\tutu.jpg",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\img\\Equipes\\tutu.jpg",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "img/Equipes/tutu.jpg",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Equipes\\tutu.jpg"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\js\\site.js",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2465,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2482,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2499,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2533,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2550,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2567,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2584,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2618,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -2635,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2652,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2669,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2686,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2703,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2720,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2737,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2754,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2771,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Projeto_Gamer_MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\ProjetoGamer_MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\24004134870\\Desktop\\Projeto_Gamer_MVC\\wwwroot\\",
       "BasePath": "_content/Projeto_Gamer_MVC",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",

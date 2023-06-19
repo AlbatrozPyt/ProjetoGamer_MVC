@@ -75,6 +75,15 @@
     margin-bottom: 60px;
 }
 
+.card-jogos img {
+    transition: bottom 2s;
+}
+
+.card-jogos img:hover {
+    position: relative;
+    bottom: 10px;
+}
+
 
 
 /********************* Time Progamer *********************/
@@ -129,7 +138,7 @@ section.progamer .progamer-flex .gamers>img {
         bottom: 10px;
     }
     to {
-        bottom: 20px;
+        bottom: 30px;
     }
 }
 
